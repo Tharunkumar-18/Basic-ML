@@ -1,2 +1,2 @@
 # Basic-ML
-This repository will contain three simple python programms
+This repository contain's three simple python programms
